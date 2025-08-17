@@ -13,15 +13,13 @@ It allows clients to request exactly the data they need, making APIs **faster, f
 ✅ **Faster Development** → Frontend teams can ask for specific fields without backend changes.  
 
 ---
+📂 basics-of-graphql
+ ┣ 📜 server.js     # Main server setup
+ ┣ 📜 schema.js     # GraphQL schema (typeDefs + resolvers)
+ ┣ 📜 package.json  # Node dependencies
+ ┣ 📜 .gitignore
+ ┗ 📜 README.md     # Documentation
 
-## 📂 Project Structure  
-
-basics-of-graphql/
-┣ 📜 server.js # Main server setup
-┣ 📜 schema.js # GraphQL schema (typeDefs + resolvers)
-┣ 📜 package.json # Node dependencies
-┣ 📜 .gitignore
-┗ 📜 README.md # Documentation
 
 ---
 
